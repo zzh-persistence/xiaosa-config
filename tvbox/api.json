@@ -1,8 +1,5 @@
 {
     "spider": "https://zzh-persistence.github.io/xiaosa-config/tvbox/spider.jar;md5;98acf8e1884192d73fa7a8375125841a",
-    "wallpaper": "",
-    "logo": "",
-    "danmaku": "",
     "sites": [
         {
             "key": "豆瓣",
@@ -1392,9 +1389,6 @@
             "filterable": 0,
             "changeable": 0
         }
-    ],
-    "lives": [
-        {}
     ],
     "parses": [
         {
